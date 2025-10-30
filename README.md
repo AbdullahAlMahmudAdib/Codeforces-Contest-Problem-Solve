@@ -44,3 +44,50 @@ Each problem here represents a new challenge and a step toward mastery.
 
 ## ⚙️ Folder Structure
 
+
+Each folder is organized by **problem rating** or **contest name**, keeping everything clean and easy to navigate.
+
+---
+
+## ❤️ Special Thanks
+
+A huge **thank you** to the amazing [**Codeforces Team**](https://codeforces.com) 🙌  
+for creating a world-class platform that pushes us to learn, think, and grow every day.
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzR6OXlxczY2M3Frb2JjODVvZmV2M3R2MjZpc3RjMGNka3pseTZyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Thank You GIF" />
+
+---
+
+## 📈 My Progress Tracker
+
+| Day | Problems Solved | Rating Range | Topic |
+|-----|------------------|---------------|--------|
+| ✅ Day 1 | 3 | 800–1000 | Implementation |
+| ✅ Day 2 | 4 | 1000–1200 | Strings |
+| ✅ Day 3 | 2 | 1200–1300 | Math / Greedy |
+| ... | ... | ... | ... |
+
+> 🗓 *I’ll keep updating this table as I continue my journey.*
+
+---
+
+## 🎯 My Goals
+
+- ✅ Solve **5+ problems** every week  
+- 🚀 Reach **Specialist** on Codeforces  
+- 🧠 Build strong problem-solving intuition  
+- ❤️ Inspire others to enjoy learning through coding  
+
+---
+
+<div align="center">
+
+### 🌟 *Let’s Learn, Code, and Grow Together!*  
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVuajdxbGNmZmcycW1hb3lwZzVvcGd3Z3c3MzQ5aG9sYzYxZmxhcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Keep Coding GIF" />
+
+#### 💬 If you like this repo, give it a ⭐ to support my journey!
+
+</div>
+
+---
